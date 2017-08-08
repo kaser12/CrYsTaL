@@ -249,7 +249,7 @@ function create_config( )
     "ar-ads",
 
     },
-    sudo_users = {259142888},--Sudo users
+    sudo_users = {270267532},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[]],
     help_text_realm = [[
