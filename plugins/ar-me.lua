@@ -1,5 +1,5 @@
 --[[
--- @BRWUEN
+-- @USA_KASPERK5
 ]]
 do
 local function joker(msg ,matches)
@@ -35,5 +35,5 @@ return {
     run = joker,
     
 }
---by #BRWUEN
+--by #USA_KASPERK5
 end
